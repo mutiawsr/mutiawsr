@@ -17,6 +17,8 @@ My skills are continually evolving as I am always learning new tools and technol
 Feel free to reach out to me for collaboration, questions, or just to connect!
 - **Email:** [mutiawsr@gmail.com](mailto:mutiawsr@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mutiawulansari](https://www.linkedin.com/in/mutiawulansari/)
+- **Kaggle:** [https://www.kaggle.com/mutiawulansari](https://www.kaggle.com/mutiawulansari)
+- **Tableau:** [https://public.tableau.com/app/profile/mutia.wulansari/vizzes](https://public.tableau.com/app/profile/mutia.wulansari/vizzes)
 
 ## ⚡ Personal Web
 Check out my personal website, called The Legend of Maeve: Weaver of the Digital World.
