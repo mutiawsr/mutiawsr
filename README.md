@@ -3,7 +3,7 @@ I'm a Data & AI enthusiast who loves diving into numbers, building cool web apps
 
 ## Skills & Interest
 - **Data Analysis:** Python, R, SQL, Power BI, Tableau, BigQuery
-- **AI & Machine Learning:** AGI, Deep Learning, Predictive Modeling, NLP, Computer Vision
+- **AI & Machine Learning:** AGI, Deep Learning, Predictive Modeling
 - **Business & Finance:** Financial Analysis, Business Intelligence, Strategic Planning
   
 My skills are continually evolving as I am always learning new tools and technologies beyond those listed here.
