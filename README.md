@@ -8,7 +8,7 @@ I'm an Data & AI enthusiast who loves diving into numbers, building cool web app
   
 My skills are continually evolving as I am always learning new tools and technologies beyond those listed here.
 
-## 🌏
+## 🌏 About me
 
 - 🌱 I’m currently learning Data & AI for business
 - 👯 I’m looking to collaborate on business or data projects
@@ -19,7 +19,7 @@ Feel free to reach out to me for collaboration, questions, or just to connect!
 - **LinkedIn:** [linkedin.com/in/mutiawulansari](https://www.linkedin.com/in/mutiawulansari/)
 
 ## ⚡ Personal Web
-Check out my personal website, called The Legend of Maeve: Weaver of the Digital World
+Check out my personal website, called The Legend of Maeve: Weaver of the Digital World.
 - **Maeve's Web**: [https://maeves.netlify.app/](https://maeves.netlify.app/)
 
 <!--
