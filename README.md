@@ -1,4 +1,4 @@
-# Hi there I am Maeve 👋
+# Hi there! I am Maeve 👋
 I'm an Data & AI enthusiast who loves diving into numbers, building cool web apps, and playing around with AI. I am interested in finance, commercial, and business. 
 
 ## Skills & Interest
