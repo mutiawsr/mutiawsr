@@ -11,7 +11,7 @@ My skills are continually evolving as I am always learning new tools and technol
 ## 🌏 About Me
 
 - 🌱 I’m currently learning Data & AI for business
-- 👯 I’m looking to collaborate on business or data projects
+- 👯 I’m looking to collaborate on projects involving business, data, or AI
 
 ## 📫 Get in Touch
 Feel free to reach out to me for collaboration, questions, or just to connect!
