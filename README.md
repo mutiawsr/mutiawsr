@@ -8,7 +8,7 @@ I'm an Data & AI enthusiast who loves diving into numbers, building cool web app
   
 My skills are continually evolving as I am always learning new tools and technologies beyond those listed here.
 
-## 🌏 About me
+## 🌏 About Me
 
 - 🌱 I’m currently learning Data & AI for business
 - 👯 I’m looking to collaborate on business or data projects
