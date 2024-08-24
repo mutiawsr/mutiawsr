@@ -1,14 +1,14 @@
 # Hi there! I am Maeve 👋
 I'm a Data & AI enthusiast who loves diving into numbers, building cool web apps, and playing around with AI. I am interested in finance, commercial, and business. 
 
-## Skills & Interest
+## 🚀 Skills & Interest
 - **Data Analysis:** Python, R, SQL, Power BI, Tableau, BigQuery
 - **AI & Machine Learning:** AGI, Deep Learning, Predictive Modeling
 - **Business & Finance:** Financial Analysis, Business Intelligence, Strategic Planning
   
 My skills are continually evolving as I am always learning new tools and technologies beyond those listed here.
 
-## 🌏 About Me
+## 🌏 Some Facts
 
 - 🌱 I’m currently learning Data & AI for business
 - 👯 I’m looking to collaborate on projects involving business, data, or AI
