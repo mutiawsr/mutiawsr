@@ -7,7 +7,7 @@ I'm a Data & AI enthusiast who loves diving into numbers, building cool web apps
 - **Data Analysis:** Python, R, SQL, Power BI, Tableau, BigQuery
 - **AI & Machine Learning:** AGI, Deep Learning, Predictive Modeling
 - **Business & Finance:** Financial Analysis, Business Intelligence, Business Analysis, Strategic Planning
-- **Startups**: Whether it's AI, SaaS, or anything, count me in 👀
+- **Startup**: Whether it's AI, SaaS, or anything, count me in 👀
   
 My skills are continually evolving as I am always learning new tools and technologies beyond those listed here.
 
