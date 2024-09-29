@@ -2,9 +2,9 @@
 I'm a Data, AI, & Tech enthusiast who loves diving into numbers, building cool web apps, and playing around with AI.
 
 ## 🚀 Skills & Interest
-- **Data Analysis:** Python, R, SQL, Power BI, Tableau, BigQuery
-- **AI & Machine Learning:** AGI, Deep Learning, Predictive Modeling
 - **Software Engineering:** Web, Mobile, Cross-Platform, RESTful APIs, Microservices
+- - **AI & Machine Learning:** AGI, Deep Learning, Predictive Modeling
+- **Data:** Python, R, SQL, Power BI, Tableau, BigQuery
 - **Business & Finance:** Financial Analysis, Business Intelligence, Business Analysis, Strategic Planning
 - **Startup**: Whether it's AI, SaaS, or anything, count me in 👀
   
