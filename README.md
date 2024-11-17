@@ -1,5 +1,5 @@
 # Hi there! I am Maeve 👋
-I'm a Software Engineer & an AI and Tech enthusiast who loves diving building cool web apps, products, and playing around with AI.
+I'm a Software Engineer & AI and Tech enthusiast who loves diving building cool web apps, products, and playing around with AI.
 
 ## 🚀 Tech Stacks
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
