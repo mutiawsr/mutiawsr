@@ -1,24 +1,23 @@
 # Hi there! I am Maeve 👋
-I'm a Data, AI, & Tech enthusiast who loves diving into numbers, building cool web apps, and playing around with AI.
+I'm a Software Engineer & an AI and Tech enthusiast who loves diving building cool web apps, products, and playing around with AI.
 
-## 🚀 Skills & Interest
-- **Software Engineering:** Web, Mobile, Cross-Platform, RESTful APIs, Microservices
-- **AI & Machine Learning:** AGI, Deep Learning, Predictive Modeling
-- **Data:** Python, R, SQL, Power BI, Tableau, BigQuery
-- **Business & Finance:** Financial Analysis, Business Intelligence, Business Analysis, Strategic Planning
-- **Startup**: Whether it's AI, SaaS, or anything, count me in 👀
+## 🚀 Tech Stacks
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
   
 My skills are continually evolving as I am always learning new tools and technologies beyond those listed here.
 
-## 🌱 I Am Learning
-- Java
-- Javascript & React
-- SaaS
-- Software Engineering
-- AI
-
 ## 👯 Get in Touch
-I’m looking to collaborate on projects involving business, data, or AI. Feel free to reach out to me for collaboration, questions, or just to connect!
+Feel free to reach out to me for collaboration, questions, or just to connect!
 - **Email:** [mutiawsr@gmail.com](mailto:mutiawsr@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mutiawulansari](https://www.linkedin.com/in/mutiawulansari/)
 - **Kaggle:** [kaggle.com/mutiawulansari](https://www.kaggle.com/mutiawulansari)
