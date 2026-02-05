@@ -1,4 +1,4 @@
-# Hi there! I am Maeve 👋
+# Hi there!
 I'm a Software Engineer & Tech enthusiast who loves diving building cool web apps, products, and playing around with AI.
 
 ## 🚀 Tech Stacks
@@ -22,14 +22,10 @@ I'm a Software Engineer & Tech enthusiast who loves diving building cool web app
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-  
-My skills are continually evolving as I am always learning new tools and technologies beyond those listed here.
 
 ## 👯 Get in Touch
-Feel free to reach out to me for collaboration, questions, or just to connect!
 - **Email:** [mutiawsr@gmail.com](mailto:mutiawsr@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mutiawulansari](https://www.linkedin.com/in/mutiawulansari/)
 
-## ⚡ Personal Web
-Check out my personal website, called The Legend of Maeve: Weaver of the Digital World.
-- **Maeve's Web**: [maeves.netlify.app](https://maeves.netlify.app/)
+## ⚡ Projects
+- **indonesian-names**: [https://www.npmjs.com/package/indonesian-names](https://www.npmjs.com/package/indonesian-names)
