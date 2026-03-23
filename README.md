@@ -30,4 +30,4 @@ I'm a Software Engineer & Tech enthusiast who loves diving building cool web app
 
 ## ⚡ Projects
 - **indonesian-names**: [https://www.npmjs.com/package/indonesian-names](https://www.npmjs.com/package/indonesian-names)
-- **NeoLife**: [https://neolife.fun](https://www.neolife.fun)
+- **NeoLife**: [https://play.google.com/store/apps/details?id=com.hojicode.neolife](https://play.google.com/store/apps/details?id=com.hojicode.neolife)
